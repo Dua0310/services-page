@@ -10,8 +10,6 @@ This is a simple responsive services page made using HTML5 and CSS3.
 - images/
 - README.md (optional)
 
-## 📷 Preview
-![Screenshot](design-screenshot.png)
 
 ## 🌐 Live Demo
 https://dua0310.github.io/services-page/
