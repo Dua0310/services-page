@@ -1,15 +1,25 @@
-# Our Service Page
 
-This is a responsive Services page created as part of a front-end internship task.
+# Services Page – HTML Project
 
-## Features
-- Hero Section with CTA
-- Services Section with 6 cards
-- Responsive layout using Flexbox
-- Contact CTA
-- Optional Testimonials
+## 💡 Overview
+This is a simple responsive services page made using HTML5 and CSS3.
 
-## Tech Stack
-- HTML5
-- CSS3
-- Font Awesome for icons
+## 📁 Files Included
+- index.html
+- style.css
+- images/
+- README.md (optional)
+
+## 📷 Preview
+![Screenshot](design-screenshot.png)
+
+## 🌐 Live Demo
+https://dua0310.github.io/services-page/
+
+## 🔧 Features
+- Clean and modern design
+- Mobile responsive
+- Easy to customize
+
+## 🧠 Developer
+Developed by: Dua Jamali  
